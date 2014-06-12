@@ -1,3 +1,10 @@
 h1 {
 	font-family: 'Lobster', cursive;
 }
+
+body {
+font-family: 'Lobster', cursive;
+	background-color: #424242;
+	background: url('../img/lightpaperfibers.png') repeat;
+	
+}
