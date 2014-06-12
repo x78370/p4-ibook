@@ -12,10 +12,12 @@ body {
 	margin-top:250px;
 }
 a {
-	font-size: 1.25em;
+
 }
 button {
-	color: rgb(155,255,178);
+	font-size: 1.25em;
+	background-color: rgb(155,255,178); 
+	color: black;
 	-webkit-box-shadow: 4px 4px 12px 0px rgba(38, 49, 178, 0.75);
 	-moz-box-shadow:    4px 4px 12px 0px rgba(38, 49, 178, 0.75);
 	box-shadow:         4px 4px 12px 0px rgba(38, 49, 178, 0.75); 
