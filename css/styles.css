@@ -21,6 +21,7 @@ button {
 	text-align: center;
 	background-color: #27C1F5; 
 	color: #0C3A4A;
+	padding: 15px;
 	-webkit-box-shadow: 4px 4px 12px 0px rgba(38, 49, 178, 0.75);
 	-moz-box-shadow:    4px 4px 12px 0px rgba(38, 49, 178, 0.75);
 	box-shadow:         4px 4px 12px 0px rgba(38, 49, 178, 0.75); 
