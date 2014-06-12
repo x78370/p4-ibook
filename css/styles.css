@@ -2,7 +2,10 @@ h1 {
 	font-size: 3em;
 	font-family: 'Kaushan Script', cursive;
 }
-
+h3 {
+	font-size: 1.5em;
+	font-family: 'Kaushan Script', cursive;
+}
 
 body {
 	font-family: 'Special Elite', cursive;
