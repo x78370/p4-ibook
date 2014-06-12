@@ -1,10 +1,22 @@
 h1 {
+	font-size: 15em;
 	font-family: 'Lobster', cursive;
 }
 
 body {
-font-family: 'Lobster', cursive;
+	font-family: 'Special Elite', cursive;
+	font-size: 8em;
 	background-color: #424242;
 	background: url('../img/lightpaperfibers.png') repeat;
-	
+	text-align: center;
+	margin-top:250px;
+}
+a {
+	color: red;
+}
+button {
+	color: rgb(155,255,178);
+	-webkit-box-shadow: 4px 4px 12px 0px rgba(38, 49, 178, 0.75);
+	-moz-box-shadow:    4px 4px 12px 0px rgba(38, 49, 178, 0.75);
+	box-shadow:         4px 4px 12px 0px rgba(38, 49, 178, 0.75); 
 }
